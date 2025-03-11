@@ -8,5 +8,16 @@ Este reto implica desarrollar una aplicación que permita a los usuarios introdu
 - **Selección aleatoria:** Al presionar el botón "Sortear Amigo", el sistema elegirá de manera aleatoria un nombre de la lista y lo exhibirá en pantalla.
   
 # Iniciando el programa
-Sigue estos pasos para obtener una copia del proyecto y comenzar a trabajar en tu entorno local.
+Seguír estos pasos para obtener una copia del proyecto y comenzar a trabajar de manera local.
+
+# Programas básicos para correr esto
+No se requieren herramientas adicionales para ejecutar este proyecto. Basta con tener un navegador como Edge, Opera,Firefox, Chrome o sus versiones alternativas. Si se trabaja con el Visual Studio Code, se puede usar la extensión Live Server.
+
+# Ejecución de manera local
+Este proyecto no necesita ninguna instalación extra. Solo abre el archivo index.html en tu navegador y comienza a utilizar la aplicación.
+
+# Herramientas usadas para su diseño
+**JavaScript:** Para la programación de la lógica de la aplicación y sus funciones: agregar nombres, realizar el sorteo, etc.
+**HTML:** Utilizado tanto para el diseño de la página como su estructura.
+**CSS:** Fue utilizado para el diseño de los estilos visuales de la página.
 
